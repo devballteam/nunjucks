@@ -27,4 +27,4 @@ test_script:
   - npm run codecov
 
 # Don't actually build.
-build: off
+build: on

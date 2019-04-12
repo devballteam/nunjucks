@@ -4,5 +4,6 @@ coverage
 docs
 tests
 bench
+browser
 nunjucks
 scripts
